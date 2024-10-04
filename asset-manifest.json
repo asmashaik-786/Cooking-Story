@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cooking-Story/static/css/main.e4edf4be.css",
+    "main.js": "/Cooking-Story/static/js/main.3bdf5e81.js",
+    "static/js/453.98d66363.chunk.js": "/Cooking-Story/static/js/453.98d66363.chunk.js",
+    "index.html": "/Cooking-Story/index.html",
+    "main.e4edf4be.css.map": "/Cooking-Story/static/css/main.e4edf4be.css.map",
+    "main.3bdf5e81.js.map": "/Cooking-Story/static/js/main.3bdf5e81.js.map",
+    "453.98d66363.chunk.js.map": "/Cooking-Story/static/js/453.98d66363.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4edf4be.css",
+    "static/js/main.3bdf5e81.js"
+  ]
+}
